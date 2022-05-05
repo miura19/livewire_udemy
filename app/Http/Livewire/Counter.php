@@ -7,6 +7,7 @@ use Livewire\Component;
 class Counter extends Component
 {
     public $counter = 0;
+    public $name = 'shiro';
     //初期値は１、関数の引数が渡ってきたらそれが$numに入って足される
     public function incriment(int $num = 1)
     {
