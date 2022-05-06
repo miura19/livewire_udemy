@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
+<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 <title>タイトル</title>
 @livewireStyles
 
